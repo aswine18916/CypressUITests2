@@ -1,0 +1,43 @@
+[ 
+    {
+    "language" : "Nederland",
+    "lostpasswordtext": "Wachtwoord vergeten?",
+    "loginbuttontext": "Inloggen"
+
+    },
+
+    {
+        "language" : "France",
+        "lostpasswordtext": "Vous avez perdu votre mot de passe ?",
+        "loginbuttontext": "Connexion"
+    
+    },
+
+    {
+        "language" : "Deutschland",
+        "lostpasswordtext": "Passwort vergessen?",
+        "loginbuttontext": "Login"
+    
+    },
+
+    {
+        "language" : "Italia",
+        "lostpasswordtext": "Hai perso la password?",
+        "loginbuttontext": "Login"
+    
+    },
+
+    {
+        "language" : "España",
+        "lostpasswordtext": "¿Has olvidado la contraseña?",
+        "loginbuttontext": "Conexión"
+    
+    },
+
+    {
+        "language" : "United States",
+        "lostpasswordtext": "Lost password?",
+        "loginbuttontext": "Login"
+    
+    }
+]

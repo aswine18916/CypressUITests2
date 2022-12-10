@@ -1,0 +1,8 @@
+{
+    
+        "baseUrl": "https://wave-trial.getbynder.com",
+        "chromeWebSecurity": false,
+        "requestTimeout": 10000,
+        "video": false
+      
+}

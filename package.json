@@ -1,0 +1,15 @@
+{
+  "name": "byndertestui",
+  "version": "1.0.0",
+  "description": "uisampletests",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome --headed --spec cypress/integration/*.spec.js",
+    "test headless": "npx cypress run --browser chrome --headless --spec cypress/integration/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "9.7.0"
+  }
+}

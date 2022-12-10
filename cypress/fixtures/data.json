@@ -1,0 +1,15 @@
+{
+  "name": "aswin",
+  "email": "aswin",
+  "password": "BynderTest123!",
+  "profilename": "aswin Edavalath",
+  "logoutmessage" : "You have successfully logged out.",
+  "loginurltext": "login",
+  "dashboardurltext": "dashboard",
+  "invalidemail": "xyz",
+  "invalidpassword": "Test123!",
+  "securitypageurl": "verify",
+  "securityerrormessage": "For security reasons, please enter the text below (sorry but we have to prove you’re not a robot!)",
+  "enterpasswordmessage": "Please enter your password."
+
+}
