@@ -22,7 +22,7 @@ describe('test login page functionalities',
         })
         cy.visit('/login')
     })
-    it("login using correct credentials, logout and enter a username and password not registered and validate the error message  populated",function()
+    it.only("login using correct credentials, logout and enter a username and password not registered and validate the error message  populated",function()
             {
                 ut.checkElementIsVisible(lp.byndertitle)
                 ut.typeInvalue(lp.email,this.data.email)
