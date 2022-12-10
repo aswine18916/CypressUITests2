@@ -5,3 +5,5 @@ RUN mkdir /BynderTestUI
 COPY . /BynderTestUI
 
 RUN yarn install
+
+ENTRYPOINT ["npm", "run"]

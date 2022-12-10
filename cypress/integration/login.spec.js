@@ -52,7 +52,7 @@ describe('test login page functionalities',
 
     })
 
-    it.only("user enters only username and no password, tries to click on login", function()
+    it("user enters only username and no password, tries to click on login", function()
     {
         ut.typeInvalue(lp.email, this.data.email)
         ut.clickOnElement(lp.loginbutton)
@@ -60,7 +60,7 @@ describe('test login page functionalities',
 
     })
 
-    it.only("user enters only password and clicks on login", function()
+    it("user enters only password and clicks on login", function()
     {
         ut.typeInvalue(lp.password,this.data.password)
         ut.clickOnElement(lp.loginbutton)
