@@ -1,11 +1,6 @@
 {
     
-        "baseUrl": "https://wave-trial.getbynder.com",
-        "chromeWebSecurity": false,
-        "requestTimeout": 10000,
-        "screenshotOnRunFailure": true,
-        "skipCopyingScreenshots": true,
-        "video": false
+
 
       
 }
